@@ -1,6 +1,6 @@
 from src.wish import greet
 
-def test_add():
+def test_greet():
     assert greet() == "HI VASIM"
     assert greet() == "HI VASIM"
     
